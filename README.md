@@ -1,7 +1,6 @@
-## Try it
+## My mock json server
+Based on [My JSON Server](https://my-json-server.typicode.com/)
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+## API List
 
-## Use your own data
-
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+https://my-json-server.typicode.com/marvinxu/json/posts
